@@ -1,0 +1,15 @@
+D:\OneDrive\DEV\C#\MyLove\MyLove\bin\Debug\MyLove.exe.config
+D:\OneDrive\DEV\C#\MyLove\MyLove\bin\Debug\MyLove.exe
+D:\OneDrive\DEV\C#\MyLove\MyLove\bin\Debug\MyLove.pdb
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\MyLove.csprojResolveAssemblyReference.cache
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\MainWindow.g.cs
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\App.g.cs
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\MyLove_MarkupCompile.cache
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\MyLove_MarkupCompile.lref
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\MainWindow.baml
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\MyLove.g.resources
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\MyLove.Properties.Resources.resources
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\MyLove.csproj.GenerateResource.Cache
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\MyLove.csproj.CoreCompileInputs.cache
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\MyLove.exe
+D:\OneDrive\DEV\C#\MyLove\MyLove\obj\Debug\MyLove.pdb
